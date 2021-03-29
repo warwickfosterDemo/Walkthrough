@@ -9,7 +9,5 @@ My list of GitHub Training Courses
 - [GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
 - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
-
-
 - [Ramp up on Git and GitHub](https://lab.github.com/githubtraining/ramp-up-on-git-and-github) (hours 6) 
 - [DevOps with github actions](https://lab.github.com/githubtraining/devops-with-github-actions) (hours 16)
